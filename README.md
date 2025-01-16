@@ -1,6 +1,4 @@
 # cat-photo-app-masingalet
-my first awesome website built with freecodecamp -- demo day for students
-
 This is a walkthrough of how to take a codepen.io pen 
 transfer it to a GitHub repository adn deploy it using Netlify
 
@@ -10,3 +8,6 @@ transfer it to a GitHub repository adn deploy it using Netlify
     * repositories
     * codespaces
 * Netlify
+
+
+oh isn't this the best, this is going reall well. I am so happy
